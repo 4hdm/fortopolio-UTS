@@ -56,3 +56,22 @@ Dibuat menggunakan **Vue 3 (Composition API)** dan **Tailwind CSS**, portofolio 
 ├── index.html               # HTML Template
 ├── package.json             # Dependencies & script runner
 └── tailwind.config.js       # Konfigurasi Tailwind CSS
+
+```
+### 📱 Tangkapan Layar Aplikasi (App Screenshots)
+
+| 📱 Portopolio (dark) | 📱 Portopolio (light) |
+| :---: | :---: |
+| ![Portofolio Dark](public/dark.png) | ![Portofolio Light](public/light.png) |
+| **Tech:** Vue 3, Tailwind CSS, Vite<br>[🌐 Demo](https://4hdm.github.io) · [💻 Repo](https://github.com/4hdm/fortopolio-vue.js-) | **Tech:** Vue 3, Tailwind CSS, Vite<br>[🌐 Demo](https://4hdm.github.io) · [💻 Repo](https://github.com/4hdm/fortopolio-vue.js-) |
+
+---
+## 👨‍💻 Tentang Pengembang
+AHDAM ASHARI
+
+Mahasiswa Teknik Informatika - STITEK Bontang
+
+📍 Bontang, Kalimantan Timur, Indonesia
+
+📄 Lisensi
+Proyek ini dilindungi di bawah lisensi MIT License. Bebas untuk digunakan dan dimodifikasi sebagai referensi portofolio Anda!
